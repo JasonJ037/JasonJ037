@@ -16,7 +16,6 @@
   技能：Java后端开发（好像也没啥别的可写了，期末周两三天学完一门课再考试不挂科算技能吗哈哈哈哈哈哈哈开玩笑啦）
 
   专业相关经历：RL项目后端接口实现（JAVA），ros-system后端开发
-  
 - :page_facing_up: 自我评估：“CRUD”工程师，擅长Java、C++、python，会按照需求文档编写接口，但缺乏架构能力和性能优化能力，希望未来能更加学习后端开发技术，同时也对AI领域感兴趣
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JasonJ037&theme=dark&show_icons=true)
